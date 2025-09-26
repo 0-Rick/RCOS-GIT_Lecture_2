@@ -8,4 +8,4 @@ Change (merge).
 
 Copy of the original lecture file.
 
-Changed the branch...
+CONFLICT!
